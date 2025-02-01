@@ -1,4 +1,4 @@
-# Digital Marketing Agency
+# Digital Marketing Agency ![favicon](https://github.com/user-attachments/assets/2f86c894-a27f-400b-95bb-583efd2c72c2)
 
 This is a fully responsive frontend website design for a **Digital Marketing Agency**, built using **HTML, CSS, Bootstrap, Owl Carousel, Font Awesome, jQuery, and JavaScript**. The design is modern, interactive, and optimized for a great user experience.  
 
